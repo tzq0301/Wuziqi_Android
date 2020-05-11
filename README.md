@@ -2,7 +2,6 @@
 > 面向对象编程基础结课项目作业
  
 ## Java版本
-下方链接指向Java版本的仓库。
 [Java版五子棋](https://github.com/tzq0301/Wuziqi_Java)
 
 ## Android版本
