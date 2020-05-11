@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">五子棋</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="introduce_for_playing">玩法介绍</string>
+    <string name="game_start">开始游戏</string>
+    <string name="return_to_main">返回</string>
+    <string name="retract">悔棋</string>
+    <string name="restart">重开</string>
+    <string name="search_skills">查找攻略</string>
+    <string name="piece_number_for_winning">改变胜利所需棋子数</string>
+</resources>

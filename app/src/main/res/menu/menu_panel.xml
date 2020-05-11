@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.wuziqitest.PanelActivity">
+    <item
+        android:id="@+id/menu_panel_restart"
+        android:orderInCategory="100"
+        android:title="@string/restart"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_panel_retract"
+        android:orderInCategory="100"
+        android:title="@string/retract"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_panel_skills"
+        android:orderInCategory="100"
+        android:title="@string/search_skills"
+        app:showAsAction="never"/>
+</menu>
